@@ -1,0 +1,7 @@
+<PROJECT>
+  <AADL path="integration_proxy.aadl" enabled="true" opened="true"/>
+  <AADL path="data.aadl" enabled="false" opened="true"/>
+  <AADL path="hardware.aadl" enabled="false" opened="true"/>
+  <AADL path="software.aadl" enabled="false" opened="true"/>
+  <AADL path="integration.aadl" enabled="false" opened="true"/>
+</PROJECT>
